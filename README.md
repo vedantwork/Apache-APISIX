@@ -343,3 +343,8 @@ You can see your created Upstream here:
 
 Follow these steps to configure and run APISIX with your services!
 
+You can host your endpoint using a single domain by ngrok
+[NGROK repo link](https://github.com/vedantwork/ngrok)
+
+
+
