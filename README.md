@@ -1,4 +1,4 @@
-# Apache APISIX Setup with Ngrok
+# Apache APISIX Setup
 
 ## What is Apache APISIX?
 Apache APISIX is an Open Source API Gateway Management tool. It provides traffic handling for websites, mobile, and IoT applications by offering services like load balancing, dynamic upstream, canary release, fine-grained routing, rate limiting, and more. It is a dynamic, scalable, and high-performance cloud-native API gateway for APIs and microservices.
