@@ -318,6 +318,9 @@ uvicorn app.asgi:app --reload --host  0.0.0.0 --port your_port_here
 
 ### Step 8: Validate Upstreams and Route using APISIX Dashboard
 We can access the APISIX Dashboard using the following details. Once logged in you can verify the Routes and Upstreams that we created earlier as shown in below screenshots.
+
+<img src="Reference Snaps/reference_image1.png">
+
 ```bash
 http://127.0.0.1:9000/user/login
 ```
@@ -327,6 +330,14 @@ username - admin
 password - admin
 
 ```
+
+You can see your created routes here:
+
+<img src="Reference Snaps/reference_image2.png">
+
+You can see your created Upstream here:
+
+<img src="Reference Snaps/reference_image3.png">
 
 
 
