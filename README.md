@@ -1,3 +1,9 @@
+<div align="center">
+    <img alt="Visitor Stats" 
+        src="https://widgetbite.com/stats/vedantwork"/>  
+</div>
+
+
 <h1 align="center">Apache APISIX Setup</h1>
 
 ## What is Apache APISIX?
